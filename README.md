@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Sam BISSELELE a.k.a. JOKERCODE(developper name)
+I'm Sam BISSELELE a.k.a. JOKERCODE(developper name)
 
-I'm a UI/UX Designer and full stack web developper.
+A UI/UX Designer and full stack web developper.
 I like remote work, but can work on place.
 
 <!--
@@ -15,28 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 
-      <ul>
-            <li>React JS/Next JS<li>
+- 🔭 I’m currently working on <a href="https://avigileafrica.vercel.app/">Agence Vigile Africa website</a>
+- 🌱 I’m currently learning Nest JS to improve work on backend skills for more productivity.
+- 💬 Ask me about : 
+     <ul>
+            <li>React JS/Next JS</li>
             <li>Node JS/Express JS </li>
             <li>Figma (Web design) </li>
             <li>WordPress </li>
       </ul>
-- 🌱 I’m currently learning Nest JS to improve work on backend skills for more productivity.
-- 💬 Ask me about web projects like website, web application or web design.
-- 📫 How to reach me: 
-      <ul>
-            <li>  <a href="https://www.linkedin.com/in/sam-bisselele-132292218/">Linkedin</a> </li>
-            <li> <a href="https://samuelbisselele.vercel.app/">Portfolio</a>  </li>
-      </ul>
-
+- 📫 How to reach me: sambisselele@gmail.com
+- All of my project are avaibale at <a href="https://samuelbisselele.vercel.app/">Portfolio</a>
+- Connect with me: <a href="https://www.linkedin.com/in/sam-bisselele-132292218/">Linkedin</a>
 - My points of interest : 
-      - Computer development ; 
-      - Reading crime novels and computer articles; 
-      - Music (Educational Rap, Pop, Traditional Kasai Songs);
-      - Japanese manga ; 
+      <ul>
+            <li>Computer development </li>
+            <li>Reading crime novels and computer articles</li>
+            <li>Music (Educational Rap, Pop, Traditional Kasai Songs)</li>
+            <li>Japanese manga </li>
+            <li>Tourism</li>
+      </ul>
       
- 
-
+     
 
 <a href="https://app.daily.dev/jokercode"><img src="https://api.daily.dev/devcards/db83720290644f0e9fc6362bec880c4f.png?r=xp1" width="400" alt="Sam BISSELELE's Dev Card"/></a>
