@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on React JS/Next JS for front-end and Node JS/Express JS for back-end, also work on Figma for web design of user interface.
+- 🔭 I’m currently working on 
+      <ul>
+            <li>React JS/Next JS<li>
+            <li>Node JS/Express JS </li>
+            <li>Figma (Web design) </li>
+            <li>WordPress </li>
+      </ul>
 - 🌱 I’m currently learning Nest JS to improve work on backend skills for more productivity.
 - 💬 Ask me about web projects like website, web application or web design.
 - 📫 How to reach me: 
-      - <a href="https://www.linkedin.com/in/sam-bisselele-132292218/">Linkedin</a> 
-      - <a href="https://samuelbisselele.vercel.app/">Portfolio</a> 
+      <ul>
+            <li>  <a href="https://www.linkedin.com/in/sam-bisselele-132292218/">Linkedin</a> </li>
+            <li> <a href="https://samuelbisselele.vercel.app/">Portfolio</a>  </li>
+      </ul>
 
 - My points of interest : 
       - Computer development ; 
