@@ -41,6 +41,5 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/jokercode"><img src="https://api.daily.dev/devcards/db83720290644f0e9fc6362bec880c4f.png?r=xp1" width="400" alt="Sam BISSELELE's Dev Card"/></a>
 
 <h2>Github Stats</h2>
-<a>https://github-readme-stats.vercel.app/api?username=sambiss1</a>
 
-<a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sambiss1)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sambiss1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</a>
