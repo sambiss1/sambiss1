@@ -47,3 +47,7 @@ Here are some ideas to get you started:
 <h2>Most used Languages </h2>
 
 <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambiss1)]([https://github-readme-stats.vercel.app/api/top-langs/?username=sambiss1])</a> -->
+
+<h2>Tech skills </h2>
+
+<a>[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,figma)](https://skillicons.dev)</a>
