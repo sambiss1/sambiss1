@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 <h2>Tech skills </h2>
 
-<a>[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,figma)](https://skillicons.dev)</a>
+<a>[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,github,react,nextjs,nodejs,express,mongodb,mysql,nestjs,figma,wordpress)](https://skillicons.dev)</a>
