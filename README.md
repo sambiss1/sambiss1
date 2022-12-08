@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 <h2>Github Stats</h2>
 
 <a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sambiss1&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=sambiss1)</a>
-<!--
+
 <h2>Most used Languages </h2>
 
-<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambiss1)]([https://github-readme-stats.vercel.app/api/top-langs/?username=sambiss1])</a> -->
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambiss1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 <h2>Tech skills </h2>
 
