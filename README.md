@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on <a href="https://avigileafrica.vercel.app/" target="_blank">Agence Vigile Africa website</a>
+<!-- - 🔭 I’m currently working on <a href="https://avigileafrica.vercel.app/" target="_blank">Agence Vigile Africa website</a> -->
 - 🌱 I’m currently learning Nest JS to improve work on backend skills for more productivity.
 - 💬 Ask me about : 
      <ul>
