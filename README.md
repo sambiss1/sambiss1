@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
  - 🔭 I’m currently working at <a href="https://kadea.academy/" target="_blank">Kadea Academy</a> as Web Developper
- - 🌱 I’m currently learning PHP with Laravel framework to improve work on backend skills for more productivity.
+ <!--- 🌱 I’m currently learning PHP with Laravel framework to improve work on backend skills for more productivity.-->
 - 💬 Ask me about : 
      <ul>
             <li>React JS/Next JS</li>
             <li>Node JS/Express JS or NestJS </li>
             <li>Figma (Web design) </li>
             <li>WordPress </li>
+            <li>Airtable</li>
       </ul>
 - 📫 How to reach me: sambisselele@gmail.com
 - All of my project are avaibale at <a href="https://samuelbisselele.vercel.app/">Portfolio</a>
