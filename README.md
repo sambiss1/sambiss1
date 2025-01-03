@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 <a>[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,js,ts,git,github)](https//skillicons.dev)
 </a>
 
-<a>[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,mysql,nestjs,heroku,figma,wordpress)](https//skillicons.dev)
+<a>[![My Skills](https://skillicons.dev/icons?i=react,nextjs,sass,redux,nodejs,express,nestjs,php,laravel,flutter,mongodb,mysql,postgres,prisma,heroku,figma,wordpress)](https//skillicons.dev)
 </a>
